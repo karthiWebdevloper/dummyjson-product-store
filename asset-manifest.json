@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dummyjson-product-store/static/css/main.ec0bef05.css",
-    "main.js": "/dummyjson-product-store/static/js/main.4c71e9d4.js",
+    "main.js": "/dummyjson-product-store/static/js/main.d44a8ca9.js",
     "index.html": "/dummyjson-product-store/index.html",
     "main.ec0bef05.css.map": "/dummyjson-product-store/static/css/main.ec0bef05.css.map",
-    "main.4c71e9d4.js.map": "/dummyjson-product-store/static/js/main.4c71e9d4.js.map"
+    "main.d44a8ca9.js.map": "/dummyjson-product-store/static/js/main.d44a8ca9.js.map"
   },
   "entrypoints": [
     "static/css/main.ec0bef05.css",
-    "static/js/main.4c71e9d4.js"
+    "static/js/main.d44a8ca9.js"
   ]
 }
