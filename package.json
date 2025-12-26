@@ -2,7 +2,7 @@
   "name": "dummyshop",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://karthiWebdevloper.gitup.io/dummyjson-product-store",
+  "homepage": "https://karthiwebdevloper.github.io/dummyjson-product-store",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": ""
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,3 +44,4 @@
     "gh-pages": "^6.3.0"
   }
 }
+
